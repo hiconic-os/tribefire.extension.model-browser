@@ -22,7 +22,6 @@ You should have received a copy of the GNU Lesser General Public License along w
 		<V.com.braintribe.wire>[2.0, 2.1)</V.com.braintribe.wire>
 		<V.com.braintribe.common>[2.0, 2.1)</V.com.braintribe.common>
 		<V.com.braintribe.gm>[2.0, 2.1)</V.com.braintribe.gm>
-		<V.com.braintribe.testing>[2.0, 2.1)</V.com.braintribe.testing>
 		<V.tribefire.cortex>[3.0, 3.1)</V.tribefire.cortex>		
 		<V.tribefire.cortex.assets>[3.0, 3.1)</V.tribefire.cortex.assets>
 		<V.tribefire.cortex.services>[3.0, 3.1)</V.tribefire.cortex.services>	
